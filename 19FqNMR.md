@@ -1,5 +1,5 @@
 # 19F qNMR
-- Determine chemical shifts of reference (C0) and analytes (C1, C2 ...). 
+- Chemical shifts: 5-fluorouracil (-170 ppm) reference (C0) and analytes (C1, C2 ...). 
 - Center the window on Cn by `o1p=Cn`.
 - Determine the 90 degree pulze (p1 value).
 - Determine the T1 value. *Note: This step can be skipped. We can directly use `d1=25s`, which should cover most organofluorines.*
