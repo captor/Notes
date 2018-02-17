@@ -21,5 +21,8 @@
 * **Robustness**: capacity to remain unaffected by small variations in method
 
 ## Part 2: Methodology
-### 1. 
+### 1. Specificity
+* Identification, assay and impurity tests
+### 2. Linearity
+
 
