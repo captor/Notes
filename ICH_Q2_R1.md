@@ -4,7 +4,7 @@
 ### 2. Types of Analytical Procedures to be Validated
 * Identification tests; Quantitative tests for impurities' content; Limit tests for the control of impurities; Quantitative tests of the active moiety in samples. 
 * **Identification tests**: to ensure the identity, compare property to reference std.
-* **Impurities testing**: can be either a quantitative or a limit test, to reflect the purity characteristics of the sample. 
+* **Impurities testing**: can be either a quantitative or a limit test, to reflect the purity characteristics of the sample. Impurities can be degraded compounds.  
 * **Assay procedures**: to measure the analyte present in a given sample, a quantitative measurement of the major component(s).
 * Typical validation characteristics: **_Accuracy, Precision (Repeatability, Intermediate Precision), Specificity, Detection Limit (DL), Quantitation Limit (QL), Linearity and Range._**
 * It should be noted that robustness is not listed in the table but should be considered.
@@ -22,7 +22,11 @@
 
 ## Part 2: Methodology
 ### 1. Specificity
-* Identification, assay and impurity tests
+* 1.1. Identification: discriminate between compounds of closely related structures
+* 1.2. Assay and Impurity Tests: specificity can be demonstrated by the resolution of the two components which elute closest to each other
+* 1.2.1 Impurities are available: spiking pure substances with impurities and/or excipients 
+* 1.2.2 Impurities are not available: comparing the test resuls of samples containing impurities or degradation pdts to a second well-characterized procedure. Compare results from two assays and the impurity profiles.
 ### 2. Linearity
+
 
 
