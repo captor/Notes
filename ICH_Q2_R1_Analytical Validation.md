@@ -54,6 +54,15 @@
 ### 6. Detection Limit (DL)
 * Based on visual evaluation, signal-to-noise (only to those exhibit baseline noise)
 * Based on std dev of the response and the slope: DL = 3.3*(std dev) / slope. The estimate of std dev can be, std dev of the blank or residual std dev of a regression line or std dev of y-intercept. 
+* Recommended Data: if based on visual or S/N ratio, presentation of the relevant chromatograms is considered acceptable.
+### 7. Quantitation Limit (QL)
+* Based on visual evaluation, S/N ratio (typically 10:1).
+* Based on std dev of the response and the slope: Ql = 10*(std dev) / slope. The estimate of std dev can be, (see above).
+### 8. Robustness
+* Typical variations: stability of analytical solns, extraction time.
+* LC variation: pH in the MP, MP composition, different columns (lots and/or suppliers), temperature, flow rate. Later three also apply to GC.
+### 9. System Suitability Testing
+
 
 
 
