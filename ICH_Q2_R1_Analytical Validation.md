@@ -62,7 +62,7 @@
 * Typical variations: stability of analytical solns, extraction time.
 * LC variation: pH in the MP, MP composition, different columns (lots and/or suppliers), temperature, flow rate. Later three also apply to GC.
 ### 9. System Suitability Testing
-
+* Test the equipment electronics, analytical operations and samples. See Pharmacopoeias for additional info.
 
 
 
