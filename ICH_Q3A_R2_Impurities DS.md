@@ -16,3 +16,24 @@
 * Structural characterization of impurities in DS at a level > ID threshold.
 * Degraded pdts in stability studies at recommended storage conditions > ID threshold should be identified. 
 * Potent, toxic, pharmacological effective imipurities: analytical procedures should be made at a level <= ID threshold. 
+### 4. Analytical Procedures
+* Differences in the methods used during development and commercial pdt should be discussed.
+* QL <= the reporting threshold.
+### 5. Reporting Impurity Content of Batches
+* Results should be presented numerically.
+* Any impurity > the reporting threshold and total impurities should be reported. All impurities > the reporting threshold should be summed as total impurities. 
+* < 1.0%: two decimal places (0.13%)
+* > 1.0%: one decimal place (1.3%)
+* Rounded using conventional rules
+* The report include: batch identity and size, date, site, process, impurity content (individual and total), use, reference to analytical procedure.
+### 6. Listing of Impurities in Specifications
+* Specified impurities, can be identified or unidentified
+* Unusually potent, toxix or pharmacological effects, the Q/DL should be commensurate with the level at which the impurities should be controlled. 
+* Specified, unidentified impurities, should be referred by (unidentified, unidentified with relative retention of 0.9).
+* Acceptance criteria < the level justified by safety data, consistent with the level of manufacturing process/analytical capability.
+* _Organic_: spec. ID im, spec. un-ID im, un-spec. im with an acceptance criterion of NMT the ID threshold, total im; _Residual solvents_; _Inorganic_.
+### 7. Qualification of Impurities
+
+
+
+
