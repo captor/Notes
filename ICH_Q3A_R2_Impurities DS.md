@@ -1,7 +1,7 @@
 # ICH Quality Gudelines
 ## Q3A (R2) Impurities in New Drug Substance
 ### 1. Preamble
-* By chemical syntheses only.
+* From chemical syntheses only.
 * Chemistry: classification and identification of impurities, report generation, list in specifications, and a brief discussion of analytical procedures.
 * Safety: guidance for qualifying impurities, not present or present at substantially lower levels.
 ### 2. Classification of Impurities
@@ -33,7 +33,17 @@
 * Acceptance criteria < the level justified by safety data, consistent with the level of manufacturing process/analytical capability.
 * _Organic_: spec. ID im, spec. un-ID im, un-spec. im with an acceptance criterion of NMT the ID threshold, total im; _Residual solvents_; _Inorganic_.
 ### 7. Qualification of Impurities
-
-
-
-
+* Acquire and evaluate data that establishes the safety of an individual impurity or an impurity profile at the levels specified.
+### 8. Glossary
+* **Chemical Development Studies**: to scale-up, optimize and validate the manufacturing process for NDS.
+* **Extraneous Contaminant**: impurity arise from outside of the manufacturing process.
+* **Identified Impurity**: known structure
+* **Unidentified Impurity**: structure not know, solely defined by qualitative analytical properties.
+* **Identification Threshold**: a limit above which an impurity should be ID.
+* **Impurity Profile**: a description of the ID and un-ID impurities.
+* **Polymorphic Forms**: different crystalline forms of the same DS. Solvation or hydration pdts (pseudo-polymorphs) and amorphous forms.
+* **Potential Impurity**: theorectically may arise from process or storage
+* **Qualification Threshold**: A limit above which an impurity should be qualified. 
+* **Reporting Threshold**: A limit above which an impurity should be reported. Same as reporting level in Q2B. 
+* **Specified Impurity**: individually listed and limited witha specific acceptance criterion
+* **Unspecified Impurity**: limited by a general acceptance criterion, not individually listed. 
