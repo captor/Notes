@@ -1,4 +1,4 @@
-# ICH Quality Gudelines
+# ICH Quility Guidelines
 ## Q3A (R2) Impurities in New Drug Substance
 ### 1. Preamble
 * From chemical syntheses only.
